@@ -47,9 +47,6 @@ An Android-based School Management System that enables students, teachers, and r
 📁 Database
 └── s_system.sql # Full schema of MySQL DB with sample data
 
-markdown
-Copy
-Edit
 
 ## 🧪 How It Works
 
